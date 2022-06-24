@@ -1,4 +1,4 @@
-# Async Redux
+# Code-Along 10.2 - Async Redux
 
 ## Requirements
 
